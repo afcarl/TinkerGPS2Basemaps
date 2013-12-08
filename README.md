@@ -22,6 +22,8 @@ Liest die Position von [Tinkerforge GPS Bricklets](http://www.tinkerforge.com/en
 
 ### Karte
 
+Punkte werden zur Laufzeit eingezeichnet (Echtzeit).
+
 ![Detail View](https://raw.github.com/balzer82/TinkerGPS2Basemaps/master/basemap-detail.png)
 
 ### GPSDUMP.CSV
